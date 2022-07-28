@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-gratis",
+  "main": "./lib/demo-slot-gratis",
+  "version": "1.0.0",
+  "description": "Cara Deposit Trik Gacor Demo Slot Gratis Hadiah Pulsa",
+  "keywords": ["slot spade gaming","slot toto","pragmatic play","pocket gaming soft","game slot terbaik","slot online terbaik","slot joker123","toto slot","slot terbaik"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-gratis:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya85/demo-slot-gratis",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
